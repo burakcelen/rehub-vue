@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="290pt"
+     viewBox="0 0 480 290">
+    <g data-tpl_matrix="1,0,0,1,0,20">
+        <path d="m211.25 87.898 13.05-22.597 13.052 22.597L224.3 110.5 211.25 87.898"
+              style="stroke:none;fill-rule:evenodd;fill:#901f7d;fill-opacity:1"
+              transform="translate(0 20)"/>
+        <path d="M254.45 112.5h-26.098l13.046-22.602H267.5L254.45 112.5"
+              style="stroke:none;fill-rule:evenodd;fill:#4c4c4c;fill-opacity:1"
+              transform="translate(0 20)"/>
+        <path d="m254.45 63.3 13.05 22.598h-26.102l-13.046-22.597h26.097"
+              style="stroke:none;fill-rule:evenodd;fill:#a7a7a7;fill-opacity:1"
+              transform="translate(0 20)"/></g><g font-family="Quattrocento Sans" font-size="50">
+    <text xml:space="preserve" style="fill:#901f7d" transform="translate(172.45 181.7)">
+        <![CDATA[Re]]></text>
+    <text xml:space="preserve" style="fill:#4c4c4c" transform="translate(226.5 181)">
+        <![CDATA[Hub]]></text>
+</g>
+</svg>

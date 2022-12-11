@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480pt" height="290pt" viewBox="0 0 480 290" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="surface2" transform="matrix(1,0,0,1,0,20)" data-tpl_matrix="1,0,0,1,0,20">
+    <path style="stroke:none;fill-rule:evenodd;fill:rgb(56.470588%,12.156863%,49.019608%);fill-opacity:1" d="M 211.250000 87.898438 L 224.300781 65.300781 L 237.351562 87.898438 L 224.300781 110.500000 L 211.250000 87.898438 "/>
+    <path style="stroke:none;fill-rule:evenodd;fill:rgb(29.803922%,29.803922%,29.803922%);fill-opacity:1" d="M 254.449219 112.500000 L 228.351562 112.500000 L 241.398438 89.898438 L 267.500000 89.898438 L 254.449219 112.500000 "/>
+    <path style="stroke:none;fill-rule:evenodd;fill:rgb(65.490196%,65.490196%,65.490196%);fill-opacity:1" d="M 254.449219 63.300781 L 267.500000 85.898438 L 241.398438 85.898438 L 228.351562 63.300781 L 254.449219 63.300781 "/>
+  </g>
+  <g id="surface4">
+    <text style="fill:rgb(144,31,125)" font-family="Quattrocento Sans" font-size="50" transform="matrix(1,0,0,1,172.45,181.7)" xml:space="preserve"><![CDATA[Re]]></text>
+    <text style="fill:rgb(76,76,76)" font-family="Quattrocento Sans" font-size="50" transform="matrix(1,0,0,1,226.5,181)" xml:space="preserve"><![CDATA[Hub]]></text>
+  </g>
+</svg>
