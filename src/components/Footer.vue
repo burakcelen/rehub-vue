@@ -15,7 +15,12 @@
           <h2 class="mb-3">Our Work</h2>
           <ul class="d-flex flex-column justify-content-center align-items-center gap-md-3">
             <li class="nav-item"><a class="nav-link" href="#">PROFESSIONAL INDEMNITY</a></li>
-            <li class="nav-item"><a class="nav-link" href="#">D&O</a></li>
+            <li class="nav-item">
+              <router-link
+                to="/our-works/D&O"
+                class="text-decoration-none nav-link text-dark">
+              D&O
+            </router-link></li>
             <li class="nav-item"><a class="nav-link" href="#">Product Liability</a></li>
             <li class="nav-item"><a class="nav-link" href="/Construction.html">Construction Insurance</a></li>
           </ul>

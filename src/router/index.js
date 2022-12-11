@@ -4,6 +4,7 @@ import OurWorks from "@/views/OurWorks";
 import indemnity from "@/pages/indemnity";
 import product from "@/pages/product";
 import property from "@/pages/property";
+import deneme from "@/components/deneme";
 const routes = [
   {
     path: '/',
@@ -22,6 +23,10 @@ const routes = [
       {
         path: '/our-works/professional-indemnity',
         component: indemnity,
+      },
+      {
+        path: '/our-works/deneme',
+        component: deneme,
       },
       {
         path: '/our-works/d&o',

@@ -1,5 +1,5 @@
 <template>
-  <nav class="navbar navbar-expand-lg navbar-fixed fw-bold shadow-none border-0 position-fixed w-100 px-3 top-0 left-0 ">
+  <nav class="navbar navbar-expand-lg navbar-fixed fw-bold shadow-none border-0 position-fixed w-100 px-3 top-0 left-0 " style="height: 8vh;">
     <div class="container-fluid px-3">
       <button
           class="navbar-toggler"
@@ -14,8 +14,8 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 						<span class="nav-logo" style="width: 80px">
-							<a class="navbar-brand link-light" href="#">
-								<img src="../assets/img/logo.png" class="img-fluid" alt="website logo"
+							<a class="navbar-brand link-light" href="/">
+								<img src="../assets/img/logo-vertical.svg" class="img-fluid" width="150" alt="website logo"
                 /></a>
 						</span>
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 gap-3 fs-6 px-3 link-light">

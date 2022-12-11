@@ -1,6 +1,6 @@
 <template>
-  <div class="bg-secondary h-100" id="cyber">
-    <h1>cyber</h1>
+  <div class="bg-secondary">
+    <h1>denemeeeee</h1>
   </div>
 
 </template>

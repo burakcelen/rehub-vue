@@ -1,12 +1,12 @@
 <template>
-  <div class="container-fluid">
+  <div class="container-fluid bg-secondary ps-5 m-0">
     <div class="row flex-nowrap">
-      <div class="col-auto col-md-3 col-xl-2 bg-transparent">
+      <div class="col-auto col-md-12 col-xl-12 bg-transparent">
         <div class="d-flex flex-column align-items-center justify-content-center pt-2 text-white min-vh-100">
           <ul class="nav nav-pills flex-column mb-0 justify-content-center align-items-center align-items-sm-start h-100 gap-2 gap-lg-3" id="menu">
             <li class="nav-item">
                 <router-link
-                    to="/our-works/professional-indemnity"
+                    :to="{ path: '/our-works/professional-indemnity' }"
                     class="text-decoration-none text-dark">
                   PROFESSIONAL INDEMNITY
                 </router-link>

@@ -1,0 +1,16 @@
+<svg width="400" height="290" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <g>
+  <title>Layer 1</title>
+  <g id="surface2" transform="matrix(1 0 0 1 0 20)" data-tpl_matrix="1,0,0,1,0,20">
+   <path d="m97,91.59766l13.05078,-22.59766l13.05078,22.59766l-13.05078,22.60156l-13.05078,-22.60156" fill-rule="evenodd" fill="rgb(56.470588%,12.156863%,49.019608%)" id="svg_1"/>
+   <path d="m140.19922,116.19922l-26.09766,0l13.04688,-22.60156l26.10156,0l-13.05078,22.60156" fill-rule="evenodd" fill="rgb(29.803922%,29.803922%,29.803922%)" id="svg_2"/>
+   <path d="m140.19922,67l13.05078,22.59766l-26.10156,0l-13.04688,-22.59766l26.09766,0" fill-rule="evenodd" fill="rgb(65.490196%,65.490196%,65.490196%)" id="svg_3"/>
+  </g>
+  <text y="-53" font-family="Quattrocento Sans" font-size="50" transform="matrix(1 0 0 1 172.45 181.7)" xml:space="preserve" fill="rgb(144,31,125)" id="svg_4" x="-14">R</text>
+  <text font-family="Quattrocento Sans" font-size="50" transform="matrix(1 0 0 1 226.5 181)" xml:space="preserve" fill="rgb(76,76,76)" id="svg_5" y="-53" x="-9">H</text>
+  <text font-family="Quattrocento Sans" font-size="50" transform="matrix(1 0 0 1 226.5 181)" xml:space="preserve" fill="rgb(76,76,76)" id="svg_9" y="-53" x="51">b</text>
+  <text font-family="Quattrocento Sans" font-size="50" transform="matrix(1 0 0 1 226.5 181)" xml:space="preserve" fill="rgb(76,76,76)" id="svg_11" y="-53" x="26">u</text>
+  <text font-family="Quattrocento Sans" font-size="50" transform="matrix(1 0 0 1 172.45 181.7)" xml:space="preserve" fill="rgb(144,31,125)" id="svg_12" y="-53" x="21">e</text>
+ </g>
+
+</svg>
