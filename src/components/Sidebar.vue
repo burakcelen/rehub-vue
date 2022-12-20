@@ -1,21 +1,21 @@
 <template>
-  <div class="container-fluid bg-secondary ps-5 m-0">
+  <div class="container-fluid ps-4 m-0">
     <div class="row flex-nowrap">
       <div class="col-auto col-md-12 col-xl-12 bg-transparent">
         <div class="d-flex flex-column align-items-center justify-content-center pt-2 text-white min-vh-100">
-          <ul class="nav nav-pills flex-column mb-0 justify-content-center align-items-center align-items-sm-start h-100 gap-2 gap-lg-3" id="menu">
+          <ul class="nav nav-pills flex-column mb-0 justify-content-center align-items-center align-items-sm-start h-100 gap-2 gap-lg-2" id="menu">
             <li class="nav-item">
                 <router-link
                     :to="{ path: '/our-works/professional-indemnity' }"
-                    class="text-decoration-none text-dark">
-                  PROFESSIONAL INDEMNITY
+                    class="text-decoration-none text-dark" style="font-size: 14px;">
+                  Professional Indemnity
                 </router-link>
 
             </li>
             <li>
                 <router-link
                     to="/our-works/D&O"
-                    class="text-decoration-none text-dark">
+                    class="text-decoration-none text-dark" style="font-size: 14px;">
                   D&O
                 </router-link>
 
@@ -23,14 +23,14 @@
             <li>
                 <router-link
                     to="/our-works/product-liablity"
-                    class="text-decoration-none text-dark">
+                    class="text-decoration-none text-dark" style="font-size: 14px;">
                   Product Liability
                 </router-link>
             </li>
             <li>
                 <router-link
                     to="/our-works/construction-insurance"
-                    class="text-decoration-none text-dark">
+                    class="text-decoration-none text-dark" style="font-size: 14px;">
                   Construction Insurance
                 </router-link>
 
@@ -38,7 +38,7 @@
             <li>
                 <router-link
                     to="/our-works/cyber-insurance"
-                    class="text-decoration-none text-dark">
+                    class="text-decoration-none text-dark" style="font-size: 14px;">
                   Cyber Insurance
                 </router-link>
 
@@ -46,21 +46,21 @@
             <li>
                 <router-link
                     to="/our-works/property"
-                    class="text-decoration-none text-dark">
+                    class="text-decoration-none text-dark" style="font-size: 14px;">
                   Property
                 </router-link>
             </li>
             <li>
                 <router-link
                     to="/our-works/fine-art"
-                    class="text-decoration-none text-dark">
+                    class="text-decoration-none text-dark" style="font-size: 14px;">
                   Fine Art
                 </router-link>
             </li>
             <li>
                 <router-link
                     to="/our-works/employers-liability"
-                    class="text-decoration-none text-dark">
+                    class="text-decoration-none text-dark" style="font-size: 14px;">
                   Employers Liability
                 </router-link>
             </li>

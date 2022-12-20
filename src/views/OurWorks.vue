@@ -1,5 +1,5 @@
 <template>
-  <div class="d-flex align-items-center justify-content-center bg-danger">
+  <div class="d-flex align-items-center justify-content-end">
 <div class="row">
 <nav-bar></nav-bar>
 </div>
@@ -7,11 +7,11 @@
       <div class="col-md-2 p-0">
   <sidebar />
       </div>
-      <div class="col-md-10">
-        <div class="h-100" style="padding:3.5rem 0 .5rem;">
+      <div class="col-md-10 p-0 ">
+        <div class="h-100">
       <router-view v-slot="{ Component, route }">
-    <transition name="slide">
-      <component :is="Component" :key="route.path"/>
+    <transition name="slide-fade">
+      <component :is="Component" />
     </transition>
   </router-view>
         </div>
@@ -28,24 +28,17 @@ export default {
 }
 </script>
 <style scoped>
-.slide-enter-active,
-.slide-leave-active {
-  transition: all 0.75s ease-in;
+.slide-fade-enter-active {
+  transition: all .45s ease;
 }
-.slide-enter-to {
-  position: absolute;
-  right: 0;
+.slide-fade-leave-active {
+  transition: all .45s cubic-bezier(1.0, 0.5, 0.8, 1.0);
 }
-.slide-enter-from {
-  position: absolute;
-  right: -100%;
+.slide-fade-enter, .slide-fade-leave-to
+  /* .slide-fade-leave-active below version 2.1.8 */ {
+  transform: translateX(100%);
+  opacity: 0;
 }
-.slide-leave-to {
-  position: absolute;
-  left: -80%;
-}
-.slide-leave-from {
-  position: absolute;
-  left: 25%;
-}
+
+
 </style>

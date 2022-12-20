@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="200" height="50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <g data-tpl_matrix="1,0,0,1,0,20" transform="matrix(0.844179, 0, 0, 0.844178, -168.835892, -54.967079)" id="surface2" bx:origin="0.000001 0.005575">
+    <path id="svg_1" fill="rgb(56.470588%,12.156863%,49.019608%)" fill-rule="evenodd" d="m200,92.59766l13.05078,-22.59766l13.05078,22.59766l-13.05078,22.60156l-13.05078,-22.60156"/>
+    <path id="svg_2" fill="rgb(29.803922%,29.803922%,29.803922%)" fill-rule="evenodd" d="m243.19922,117.19922l-26.09766,0l13.04688,-22.60156l26.10156,0l-13.05078,22.60156"/>
+    <path id="svg_3" fill="rgb(65.490196%,65.490196%,65.490196%)" fill-rule="evenodd" d="m243.19922,68l13.05078,22.59766l-26.10156,0l-13.04688,-22.59766l26.09766,0"/>
+    <text x="263.252" y="110.826" id="svg_4" fill="rgb(144,31,125)" font-size="50" font-family="Quattrocento Sans" style="white-space: pre; font-size: 50px;">R</text>
+    <text x="322.302" y="110.126" id="svg_5" fill="rgb(76,76,76)" font-size="50" font-family="Quattrocento Sans" style="white-space: pre; font-size: 50px;">H</text>
+    <text x="382.302" y="110.126" id="svg_9" fill="rgb(76,76,76)" font-size="50" font-family="Quattrocento Sans" style="white-space: pre; font-size: 50px;">b</text>
+    <text x="357.302" y="110.126" id="svg_11" fill="rgb(76,76,76)" font-size="50" font-family="Quattrocento Sans" style="white-space: pre; font-size: 50px;">u</text>
+    <text x="298.252" y="110.826" id="svg_12" fill="rgb(144,31,125)" font-size="50" font-family="Quattrocento Sans" style="white-space: pre; font-size: 50px;">e</text>
+  </g>
+</svg>

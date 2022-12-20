@@ -13,24 +13,25 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-						<span class="nav-logo" style="width: 80px">
-							<a class="navbar-brand link-light" href="/">
-								<img src="../assets/img/logo-vertical.svg" class="img-fluid" width="150" alt="website logo"
+						<span class="nav-logo mt-3 overflow-hidden">
+							<a class="navbar-brand link-light me-auto" href="/">
+								<img src="../assets/img/mainLogo.svg" height="35" alt="website logo"
                 /></a>
 						</span>
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0 gap-3 fs-6 px-3 link-light">
-          <li class="nav-item active">
+          <li class="nav-item ">
             <router-link
                 to="/"
-                class="nav-link active">
+                class="nav-link ">
               Home
             </router-link>
           </li>
           <li class="nav-item">
             <router-link
-                to="/"
+                to="/Aboutus"
                 class="nav-link">
-              About Us
+                About Us
+
             </router-link>
           </li>
 
@@ -43,7 +44,7 @@
           </li>
           <li class="nav-item">
             <router-link
-                to="/"
+                to="/contactUs"
                 class="nav-link">
               Contact Us
             </router-link>
@@ -66,6 +67,6 @@ export default {
  }
  a.hover,
  a.router-link-active {
-   border-bottom: 2px solid #5352db;
+   border-bottom: 2px solid #57009e;
  }
 </style>

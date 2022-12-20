@@ -1,6 +1,5 @@
 <template>
-  <div class="">
-  <div class="container vh-100 ">
+  <div class="container vh-100 " >
     <div class="justify-content-center align-items-center h-100 mt-5 row">
       <div class="col-lg-8 mx-auto text-center">
         <h2 class="fw-bold my-3" style="font-size: 2rem;font-weight: 700;line-height: 1.2">Who We Are</h2>
@@ -14,7 +13,6 @@
       </div>
     </div>
   </div>
-  </div>
 </template>
 
 <script>
@@ -27,5 +25,6 @@ p {
   overflow: hidden;
   text-align: start;
   line-height: 1.75;
+  color: #3c3a3a;
 }
 </style>
